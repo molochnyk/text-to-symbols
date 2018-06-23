@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html{
+  height: 100%;
+}
+body{
+  height: 100%;
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+  color: #111;
+}
+
+h1{
+  font-size: 60px;
+  margin-bottom: 100px;
+}
+
+
+.char-1,
+.char-2{
+  position: relative;
+  font-size: 40px;
+}
